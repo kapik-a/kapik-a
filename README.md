@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Andrii.
+- 👀 I’m interested in multilingualism and self education.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on some simple projects to begin.
